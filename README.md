@@ -7,4 +7,8 @@
 - p05 -calcular el promedio de 3
 - p06 -operaciones matematicas
 - p07 -funciones trigonometricas
-- p08 -Probando 
+dds
+ds
+dssd
+s
+d
