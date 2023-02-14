@@ -1,4 +1,5 @@
 # Programas dela materia de Programacion C# .NET
+Luis Manuel Reveles Dorado 
 ## Actividad 1
 - p01 -hola mundo x
 - p02 -area de circulo x
