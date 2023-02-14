@@ -4,8 +4,8 @@
 - p02 -area de circulo x
 - p03 -area de triangulo x
 - p04 -paga trabajador x
-- p05-operaciones-matematicas
-- p06-promedio-calificaciones
-- p07-operadores-asignacion
-- p08-funciones-trigonometricas
-- p09-dividir-en-cifras
+- p05-operaciones-matematicas x
+- p06-promedio-calificaciones x
+- p07-operadores-asignacion x
+- p08-funciones-trigonometricas x
+- p09-dividir-en-cifras x
