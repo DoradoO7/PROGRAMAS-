@@ -4,6 +4,7 @@
 - p02 -area de circulo x
 - p03 -area de triangulo x
 - p04 -paga trabajador x
+## Actividad 2
 - p05-operaciones-matematicas x
 - p06-promedio-calificaciones x
 - p07-operadores-asignacion x
