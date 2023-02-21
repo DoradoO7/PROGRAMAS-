@@ -1,0 +1,15 @@
+C:\Users\dorad\Desktop\PROGRAMAS#\p15-hipotenusa-triangulo\bin\Debug\net7.0\p15-hipotenusa-triangulo.exe
+C:\Users\dorad\Desktop\PROGRAMAS#\p15-hipotenusa-triangulo\bin\Debug\net7.0\p15-hipotenusa-triangulo.deps.json
+C:\Users\dorad\Desktop\PROGRAMAS#\p15-hipotenusa-triangulo\bin\Debug\net7.0\p15-hipotenusa-triangulo.runtimeconfig.json
+C:\Users\dorad\Desktop\PROGRAMAS#\p15-hipotenusa-triangulo\bin\Debug\net7.0\p15-hipotenusa-triangulo.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p15-hipotenusa-triangulo\bin\Debug\net7.0\p15-hipotenusa-triangulo.pdb
+C:\Users\dorad\Desktop\PROGRAMAS#\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.csproj.AssemblyReference.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorad\Desktop\PROGRAMAS#\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.AssemblyInfoInputs.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.AssemblyInfo.cs
+C:\Users\dorad\Desktop\PROGRAMAS#\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.csproj.CoreCompileInputs.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p15-hipotenusa-triangulo\obj\Debug\net7.0\refint\p15-hipotenusa-triangulo.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.pdb
+C:\Users\dorad\Desktop\PROGRAMAS#\p15-hipotenusa-triangulo\obj\Debug\net7.0\p15-hipotenusa-triangulo.genruntimeconfig.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p15-hipotenusa-triangulo\obj\Debug\net7.0\ref\p15-hipotenusa-triangulo.dll

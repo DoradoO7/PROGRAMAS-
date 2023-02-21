@@ -1,0 +1,15 @@
+C:\Users\dorad\Desktop\PROGRAMAS#\p20-convertir-a-dolares\bin\Debug\net7.0\p20-convertir-a-dolares.exe
+C:\Users\dorad\Desktop\PROGRAMAS#\p20-convertir-a-dolares\bin\Debug\net7.0\p20-convertir-a-dolares.deps.json
+C:\Users\dorad\Desktop\PROGRAMAS#\p20-convertir-a-dolares\bin\Debug\net7.0\p20-convertir-a-dolares.runtimeconfig.json
+C:\Users\dorad\Desktop\PROGRAMAS#\p20-convertir-a-dolares\bin\Debug\net7.0\p20-convertir-a-dolares.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p20-convertir-a-dolares\bin\Debug\net7.0\p20-convertir-a-dolares.pdb
+C:\Users\dorad\Desktop\PROGRAMAS#\p20-convertir-a-dolares\obj\Debug\net7.0\p20-convertir-a-dolares.csproj.AssemblyReference.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p20-convertir-a-dolares\obj\Debug\net7.0\p20-convertir-a-dolares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorad\Desktop\PROGRAMAS#\p20-convertir-a-dolares\obj\Debug\net7.0\p20-convertir-a-dolares.AssemblyInfoInputs.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p20-convertir-a-dolares\obj\Debug\net7.0\p20-convertir-a-dolares.AssemblyInfo.cs
+C:\Users\dorad\Desktop\PROGRAMAS#\p20-convertir-a-dolares\obj\Debug\net7.0\p20-convertir-a-dolares.csproj.CoreCompileInputs.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p20-convertir-a-dolares\obj\Debug\net7.0\p20-convertir-a-dolares.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p20-convertir-a-dolares\obj\Debug\net7.0\refint\p20-convertir-a-dolares.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p20-convertir-a-dolares\obj\Debug\net7.0\p20-convertir-a-dolares.pdb
+C:\Users\dorad\Desktop\PROGRAMAS#\p20-convertir-a-dolares\obj\Debug\net7.0\p20-convertir-a-dolares.genruntimeconfig.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p20-convertir-a-dolares\obj\Debug\net7.0\ref\p20-convertir-a-dolares.dll
