@@ -17,3 +17,19 @@ Luis Manuel Reveles Dorado
 - p12-trabajando-constantes x
 - p13-trabajando-caracter x
 - p14-conversion-tipos <3
+## Tarea 1
+- p15-hipotenusa-triangulo x
+- p16-calcular-angulo x
+- p17-convertir-temperatura x
+- p18-volumen-cilindro x
+- p19-calculo-tiempo x
+- p20-convertir-a-dolares x
+
+## Actividad 4(21/02/2023)
+- p21-verificar-numero x
+- p22-verificar-suma x
+- p23-convertir-temperatura x
+- p24-paga-extra x
+
+
+
