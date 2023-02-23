@@ -1,0 +1,15 @@
+C:\Users\dorad\Desktop\PROGRAMAS#\p26-tipo-angulo\bin\Debug\net7.0\p26-tipo-angulo.exe
+C:\Users\dorad\Desktop\PROGRAMAS#\p26-tipo-angulo\bin\Debug\net7.0\p26-tipo-angulo.deps.json
+C:\Users\dorad\Desktop\PROGRAMAS#\p26-tipo-angulo\bin\Debug\net7.0\p26-tipo-angulo.runtimeconfig.json
+C:\Users\dorad\Desktop\PROGRAMAS#\p26-tipo-angulo\bin\Debug\net7.0\p26-tipo-angulo.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p26-tipo-angulo\bin\Debug\net7.0\p26-tipo-angulo.pdb
+C:\Users\dorad\Desktop\PROGRAMAS#\p26-tipo-angulo\obj\Debug\net7.0\p26-tipo-angulo.csproj.AssemblyReference.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p26-tipo-angulo\obj\Debug\net7.0\p26-tipo-angulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorad\Desktop\PROGRAMAS#\p26-tipo-angulo\obj\Debug\net7.0\p26-tipo-angulo.AssemblyInfoInputs.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p26-tipo-angulo\obj\Debug\net7.0\p26-tipo-angulo.AssemblyInfo.cs
+C:\Users\dorad\Desktop\PROGRAMAS#\p26-tipo-angulo\obj\Debug\net7.0\p26-tipo-angulo.csproj.CoreCompileInputs.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p26-tipo-angulo\obj\Debug\net7.0\p26-tipo-angulo.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p26-tipo-angulo\obj\Debug\net7.0\refint\p26-tipo-angulo.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p26-tipo-angulo\obj\Debug\net7.0\p26-tipo-angulo.pdb
+C:\Users\dorad\Desktop\PROGRAMAS#\p26-tipo-angulo\obj\Debug\net7.0\p26-tipo-angulo.genruntimeconfig.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p26-tipo-angulo\obj\Debug\net7.0\ref\p26-tipo-angulo.dll
