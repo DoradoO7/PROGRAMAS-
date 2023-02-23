@@ -31,5 +31,11 @@ Luis Manuel Reveles Dorado
 - p23-convertir-temperatura x
 - p24-paga-extra x
 
+## Actividad 5(23/02/2023)
+- p25-estaciones-año x
+- p26-tipo-angulo x
+- p27-aceptar-estudiante x
+- p28-ley-de-newton x
+
 
 
