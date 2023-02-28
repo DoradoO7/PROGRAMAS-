@@ -36,6 +36,10 @@ Luis Manuel Reveles Dorado
 - p26-tipo-angulo x
 - p27-aceptar-estudiante x
 - p28-ley-de-newton x
-## Actividad 6()
+## Actividad 6(28/02/2023)
+- p29-calculadora
+- p30-dia-semana
+- p31-numero-romano
+- p32-
 
 
