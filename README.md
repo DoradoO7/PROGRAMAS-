@@ -36,6 +36,6 @@ Luis Manuel Reveles Dorado
 - p26-tipo-angulo x
 - p27-aceptar-estudiante x
 - p28-ley-de-newton x
-
+## Actividad 6()
 
 

@@ -1,0 +1,15 @@
+C:\Users\dorad\Desktop\PROGRAMAS#\p31-numeros-romano\bin\Debug\net7.0\p31-numeros-romano.exe
+C:\Users\dorad\Desktop\PROGRAMAS#\p31-numeros-romano\bin\Debug\net7.0\p31-numeros-romano.deps.json
+C:\Users\dorad\Desktop\PROGRAMAS#\p31-numeros-romano\bin\Debug\net7.0\p31-numeros-romano.runtimeconfig.json
+C:\Users\dorad\Desktop\PROGRAMAS#\p31-numeros-romano\bin\Debug\net7.0\p31-numeros-romano.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p31-numeros-romano\bin\Debug\net7.0\p31-numeros-romano.pdb
+C:\Users\dorad\Desktop\PROGRAMAS#\p31-numeros-romano\obj\Debug\net7.0\p31-numeros-romano.csproj.AssemblyReference.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p31-numeros-romano\obj\Debug\net7.0\p31-numeros-romano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorad\Desktop\PROGRAMAS#\p31-numeros-romano\obj\Debug\net7.0\p31-numeros-romano.AssemblyInfoInputs.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p31-numeros-romano\obj\Debug\net7.0\p31-numeros-romano.AssemblyInfo.cs
+C:\Users\dorad\Desktop\PROGRAMAS#\p31-numeros-romano\obj\Debug\net7.0\p31-numeros-romano.csproj.CoreCompileInputs.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p31-numeros-romano\obj\Debug\net7.0\p31-numeros-romano.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p31-numeros-romano\obj\Debug\net7.0\refint\p31-numeros-romano.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p31-numeros-romano\obj\Debug\net7.0\p31-numeros-romano.pdb
+C:\Users\dorad\Desktop\PROGRAMAS#\p31-numeros-romano\obj\Debug\net7.0\p31-numeros-romano.genruntimeconfig.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p31-numeros-romano\obj\Debug\net7.0\ref\p31-numeros-romano.dll

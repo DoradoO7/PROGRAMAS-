@@ -1,0 +1,5 @@
+C:\Users\dorad\Desktop\PROGRAMAS#\p30-dia-semana\obj\Debug\net7.0\p30-dia-semana.csproj.AssemblyReference.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p30-dia-semana\obj\Debug\net7.0\p30-dia-semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorad\Desktop\PROGRAMAS#\p30-dia-semana\obj\Debug\net7.0\p30-dia-semana.AssemblyInfoInputs.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p30-dia-semana\obj\Debug\net7.0\p30-dia-semana.AssemblyInfo.cs
+C:\Users\dorad\Desktop\PROGRAMAS#\p30-dia-semana\obj\Debug\net7.0\p30-dia-semana.csproj.CoreCompileInputs.cache
