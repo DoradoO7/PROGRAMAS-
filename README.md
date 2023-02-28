@@ -40,6 +40,7 @@ Luis Manuel Reveles Dorado
 - p29-calculadora
 - p30-dia-semana
 - p31-numero-romano
-- p32-
+- p32-pago-estacionamiento
+
 
 
