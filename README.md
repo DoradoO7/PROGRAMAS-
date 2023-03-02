@@ -41,7 +41,7 @@ Luis Manuel Reveles Dorado
 - p30-dia-semana x
 - p31-numero-romano x
 - p32-pago-estacionamiento x
-## Actividad(02/03/2023)
+## Tarea 2 (02/03/2023)
 - p33-numeros-consecutivos x
 - p34-numero-mayor x 
 - p35-continentes-mundo x
