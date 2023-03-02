@@ -1,0 +1,15 @@
+C:\Users\dorad\Desktop\PROGRAMAS#\p39-repas-parcial-1\bin\Debug\net7.0\p39-repas-parcial-1.exe
+C:\Users\dorad\Desktop\PROGRAMAS#\p39-repas-parcial-1\bin\Debug\net7.0\p39-repas-parcial-1.deps.json
+C:\Users\dorad\Desktop\PROGRAMAS#\p39-repas-parcial-1\bin\Debug\net7.0\p39-repas-parcial-1.runtimeconfig.json
+C:\Users\dorad\Desktop\PROGRAMAS#\p39-repas-parcial-1\bin\Debug\net7.0\p39-repas-parcial-1.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p39-repas-parcial-1\bin\Debug\net7.0\p39-repas-parcial-1.pdb
+C:\Users\dorad\Desktop\PROGRAMAS#\p39-repas-parcial-1\obj\Debug\net7.0\p39-repas-parcial-1.csproj.AssemblyReference.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p39-repas-parcial-1\obj\Debug\net7.0\p39-repas-parcial-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorad\Desktop\PROGRAMAS#\p39-repas-parcial-1\obj\Debug\net7.0\p39-repas-parcial-1.AssemblyInfoInputs.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p39-repas-parcial-1\obj\Debug\net7.0\p39-repas-parcial-1.AssemblyInfo.cs
+C:\Users\dorad\Desktop\PROGRAMAS#\p39-repas-parcial-1\obj\Debug\net7.0\p39-repas-parcial-1.csproj.CoreCompileInputs.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p39-repas-parcial-1\obj\Debug\net7.0\p39-repas-parcial-1.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p39-repas-parcial-1\obj\Debug\net7.0\refint\p39-repas-parcial-1.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p39-repas-parcial-1\obj\Debug\net7.0\p39-repas-parcial-1.pdb
+C:\Users\dorad\Desktop\PROGRAMAS#\p39-repas-parcial-1\obj\Debug\net7.0\p39-repas-parcial-1.genruntimeconfig.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p39-repas-parcial-1\obj\Debug\net7.0\ref\p39-repas-parcial-1.dll
