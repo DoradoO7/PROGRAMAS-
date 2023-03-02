@@ -8,7 +8,7 @@ double descuento,subtotal;
 string tamanio="hola";
 descuento=0.0f;
 precio=0;
-Console.WriteLine("--Bienvenido a la Pizzeria las ranas hermanas--\n");
+Console.WriteLine("Bienvenido a la Pizzeria\n");
 Console.WriteLine("[C]hica (costo $5) ");
 Console.WriteLine("[M]ediana (costo $10) ");
 Console.WriteLine("[G]rande (costo $20) ");
