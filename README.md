@@ -37,10 +37,14 @@ Luis Manuel Reveles Dorado
 - p27-aceptar-estudiante x
 - p28-ley-de-newton x
 ## Actividad 6(28/02/2023)
-- p29-calculadora
-- p30-dia-semana
-- p31-numero-romano
-- p32-pago-estacionamiento
-
-
-
+- p29-calculadora x
+- p30-dia-semana x
+- p31-numero-romano x
+- p32-pago-estacionamiento x
+## Actividad(02/03/2023)
+- p33-numeros-consecutivos x
+- p34-numero-mayor x 
+- p35-continentes-mundo x
+- p36-compra-pizza x
+- p37-calculo-notas x
+- p38-acepta-estudiantes-v2 x
