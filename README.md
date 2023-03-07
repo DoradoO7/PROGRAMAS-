@@ -49,4 +49,7 @@ Luis Manuel Reveles Dorado
 - p37-calculo-notas x
 - p38-acepta-estudiantes-v2 x
 ## Actividad 7
-- p39-repas-parcial-1
+- p39-repas-parcial-
+## Examen 1
+- p40-primer-parcial
+
