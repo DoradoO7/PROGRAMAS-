@@ -58,3 +58,8 @@ Luis Manuel Reveles Dorado
 - p43-procesa-calificaciones x
 - p44-tabla-multiplicar x
 - p45-conteo-numeros x 
+## Actividad 9(14-03-2023)
+- p46–pares-ascendente
+- p47–impares-descendente
+- p48–tabla-de-conversion
+- p49–conjetura-de-collatz
