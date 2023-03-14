@@ -63,3 +63,8 @@ Luis Manuel Reveles Dorado
 - p47–impares-descendente
 - p48–tabla-de-conversion
 - p49–conjetura-de-collatz
+## Tarea 3(14-03-2023)
+- p50-impares-ascendente 
+- p51-pares-descendente 
+- p52-conversion-temperaturas
+- p53-serie-fibonaci
