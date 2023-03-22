@@ -59,18 +59,23 @@ Luis Manuel Reveles Dorado
 - p44-tabla-multiplicar x
 - p45-conteo-numeros x 
 ## Actividad 9(14-03-2023)
-- p46–pares-ascendente
-- p47–impares-descendente
-- p48–tabla-de-conversion
-- p49–conjetura-de-collatz
+- p46–pares-ascendente x
+- p47–impares-descendente x
+- p48–tabla-de-conversion x
+- p49–conjetura-de-collatz x
 ## Tarea 3(14-03-2023)
-- p50-impares-ascendente 
-- p51-pares-descendente 
-- p52-conversion-temperaturas
-- p53-serie-fibonaci
+- p50-impares-ascendente x
+- p51-pares-descendente x
+- p52-conversion-temperaturas x
+- p53-serie-fibonaci x
 ## Actividad 10(16-03-2023)
-- p54-numeros-1-n
-- p55-numeros-n-1
-- p56-arriba-abajo
-- p57-suma-pares-impares
-- p58-suma-promedio
+- p54-numeros-1-n x
+- p55-numeros-n-1 x
+- p56-arriba-abajo x
+- p57-suma-pares-impares x
+- p58-suma-promedio x
+## Actividad 11 (21-03-2023)
+- p59-tablas-multiplicar x
+- p60-piramide x
+- p61-factorial-numeros x
+- p62-suma-terminos x
