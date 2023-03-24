@@ -1,0 +1,15 @@
+C:\Users\dorad\Desktop\PROGRAMAS#\p71-calificacion-letra\bin\Debug\net7.0\p71-calificacion-letra.exe
+C:\Users\dorad\Desktop\PROGRAMAS#\p71-calificacion-letra\bin\Debug\net7.0\p71-calificacion-letra.deps.json
+C:\Users\dorad\Desktop\PROGRAMAS#\p71-calificacion-letra\bin\Debug\net7.0\p71-calificacion-letra.runtimeconfig.json
+C:\Users\dorad\Desktop\PROGRAMAS#\p71-calificacion-letra\bin\Debug\net7.0\p71-calificacion-letra.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p71-calificacion-letra\bin\Debug\net7.0\p71-calificacion-letra.pdb
+C:\Users\dorad\Desktop\PROGRAMAS#\p71-calificacion-letra\obj\Debug\net7.0\p71-calificacion-letra.csproj.AssemblyReference.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p71-calificacion-letra\obj\Debug\net7.0\p71-calificacion-letra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorad\Desktop\PROGRAMAS#\p71-calificacion-letra\obj\Debug\net7.0\p71-calificacion-letra.AssemblyInfoInputs.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p71-calificacion-letra\obj\Debug\net7.0\p71-calificacion-letra.AssemblyInfo.cs
+C:\Users\dorad\Desktop\PROGRAMAS#\p71-calificacion-letra\obj\Debug\net7.0\p71-calificacion-letra.csproj.CoreCompileInputs.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p71-calificacion-letra\obj\Debug\net7.0\p71-calificacion-letra.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p71-calificacion-letra\obj\Debug\net7.0\refint\p71-calificacion-letra.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p71-calificacion-letra\obj\Debug\net7.0\p71-calificacion-letra.pdb
+C:\Users\dorad\Desktop\PROGRAMAS#\p71-calificacion-letra\obj\Debug\net7.0\p71-calificacion-letra.genruntimeconfig.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p71-calificacion-letra\obj\Debug\net7.0\ref\p71-calificacion-letra.dll

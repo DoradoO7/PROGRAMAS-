@@ -79,3 +79,14 @@ Luis Manuel Reveles Dorado
 - p60-piramide x
 - p61-factorial-numeros x
 - p62-suma-terminos x
+## Tarea 4(22/03/2023)
+- p63-sucuencia-numeros-1
+- p64-secuencia-numeros-2
+- p65-suma-terminos-1
+- p66-suma-terminos-2
+## Actividad 12(23-03-2023)
+- p67-promedio-numeros
+- p68-conversion-temperaturas
+- p69-suma-rango
+- p70-tabla-multiplicar
+- p71-calificacion-letra
