@@ -1,0 +1,15 @@
+C:\Users\dorad\Desktop\PROGRAMAS#\p76-cuadro-caracter\bin\Debug\net7.0\p76-cuadro-caracter.exe
+C:\Users\dorad\Desktop\PROGRAMAS#\p76-cuadro-caracter\bin\Debug\net7.0\p76-cuadro-caracter.deps.json
+C:\Users\dorad\Desktop\PROGRAMAS#\p76-cuadro-caracter\bin\Debug\net7.0\p76-cuadro-caracter.runtimeconfig.json
+C:\Users\dorad\Desktop\PROGRAMAS#\p76-cuadro-caracter\bin\Debug\net7.0\p76-cuadro-caracter.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p76-cuadro-caracter\bin\Debug\net7.0\p76-cuadro-caracter.pdb
+C:\Users\dorad\Desktop\PROGRAMAS#\p76-cuadro-caracter\obj\Debug\net7.0\p76-cuadro-caracter.csproj.AssemblyReference.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p76-cuadro-caracter\obj\Debug\net7.0\p76-cuadro-caracter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorad\Desktop\PROGRAMAS#\p76-cuadro-caracter\obj\Debug\net7.0\p76-cuadro-caracter.AssemblyInfoInputs.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p76-cuadro-caracter\obj\Debug\net7.0\p76-cuadro-caracter.AssemblyInfo.cs
+C:\Users\dorad\Desktop\PROGRAMAS#\p76-cuadro-caracter\obj\Debug\net7.0\p76-cuadro-caracter.csproj.CoreCompileInputs.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p76-cuadro-caracter\obj\Debug\net7.0\p76-cuadro-caracter.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p76-cuadro-caracter\obj\Debug\net7.0\refint\p76-cuadro-caracter.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p76-cuadro-caracter\obj\Debug\net7.0\p76-cuadro-caracter.pdb
+C:\Users\dorad\Desktop\PROGRAMAS#\p76-cuadro-caracter\obj\Debug\net7.0\p76-cuadro-caracter.genruntimeconfig.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p76-cuadro-caracter\obj\Debug\net7.0\ref\p76-cuadro-caracter.dll

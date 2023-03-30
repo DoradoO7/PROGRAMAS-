@@ -1,0 +1,15 @@
+C:\Users\dorad\Desktop\PROGRAMAS#\p72-mayor-tres-numeros\bin\Debug\net7.0\p72-mayor-tres-numeros.exe
+C:\Users\dorad\Desktop\PROGRAMAS#\p72-mayor-tres-numeros\bin\Debug\net7.0\p72-mayor-tres-numeros.deps.json
+C:\Users\dorad\Desktop\PROGRAMAS#\p72-mayor-tres-numeros\bin\Debug\net7.0\p72-mayor-tres-numeros.runtimeconfig.json
+C:\Users\dorad\Desktop\PROGRAMAS#\p72-mayor-tres-numeros\bin\Debug\net7.0\p72-mayor-tres-numeros.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p72-mayor-tres-numeros\bin\Debug\net7.0\p72-mayor-tres-numeros.pdb
+C:\Users\dorad\Desktop\PROGRAMAS#\p72-mayor-tres-numeros\obj\Debug\net7.0\p72-mayor-tres-numeros.csproj.AssemblyReference.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p72-mayor-tres-numeros\obj\Debug\net7.0\p72-mayor-tres-numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorad\Desktop\PROGRAMAS#\p72-mayor-tres-numeros\obj\Debug\net7.0\p72-mayor-tres-numeros.AssemblyInfoInputs.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p72-mayor-tres-numeros\obj\Debug\net7.0\p72-mayor-tres-numeros.AssemblyInfo.cs
+C:\Users\dorad\Desktop\PROGRAMAS#\p72-mayor-tres-numeros\obj\Debug\net7.0\p72-mayor-tres-numeros.csproj.CoreCompileInputs.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p72-mayor-tres-numeros\obj\Debug\net7.0\p72-mayor-tres-numeros.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p72-mayor-tres-numeros\obj\Debug\net7.0\refint\p72-mayor-tres-numeros.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p72-mayor-tres-numeros\obj\Debug\net7.0\p72-mayor-tres-numeros.pdb
+C:\Users\dorad\Desktop\PROGRAMAS#\p72-mayor-tres-numeros\obj\Debug\net7.0\p72-mayor-tres-numeros.genruntimeconfig.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p72-mayor-tres-numeros\obj\Debug\net7.0\ref\p72-mayor-tres-numeros.dll
