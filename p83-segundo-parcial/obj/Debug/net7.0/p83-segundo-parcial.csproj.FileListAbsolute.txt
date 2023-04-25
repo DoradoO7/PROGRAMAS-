@@ -1,0 +1,15 @@
+C:\Users\dorad\Desktop\PROGRAMAS#\p83-segundo-parcial\obj\Debug\net7.0\p83-segundo-parcial.csproj.AssemblyReference.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p83-segundo-parcial\obj\Debug\net7.0\p83-segundo-parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorad\Desktop\PROGRAMAS#\p83-segundo-parcial\obj\Debug\net7.0\p83-segundo-parcial.AssemblyInfoInputs.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p83-segundo-parcial\obj\Debug\net7.0\p83-segundo-parcial.AssemblyInfo.cs
+C:\Users\dorad\Desktop\PROGRAMAS#\p83-segundo-parcial\obj\Debug\net7.0\p83-segundo-parcial.csproj.CoreCompileInputs.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p83-segundo-parcial\bin\Debug\net7.0\p83-segundo-parcial.exe
+C:\Users\dorad\Desktop\PROGRAMAS#\p83-segundo-parcial\bin\Debug\net7.0\p83-segundo-parcial.deps.json
+C:\Users\dorad\Desktop\PROGRAMAS#\p83-segundo-parcial\bin\Debug\net7.0\p83-segundo-parcial.runtimeconfig.json
+C:\Users\dorad\Desktop\PROGRAMAS#\p83-segundo-parcial\bin\Debug\net7.0\p83-segundo-parcial.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p83-segundo-parcial\bin\Debug\net7.0\p83-segundo-parcial.pdb
+C:\Users\dorad\Desktop\PROGRAMAS#\p83-segundo-parcial\obj\Debug\net7.0\p83-segundo-parcial.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p83-segundo-parcial\obj\Debug\net7.0\refint\p83-segundo-parcial.dll
+C:\Users\dorad\Desktop\PROGRAMAS#\p83-segundo-parcial\obj\Debug\net7.0\p83-segundo-parcial.pdb
+C:\Users\dorad\Desktop\PROGRAMAS#\p83-segundo-parcial\obj\Debug\net7.0\p83-segundo-parcial.genruntimeconfig.cache
+C:\Users\dorad\Desktop\PROGRAMAS#\p83-segundo-parcial\obj\Debug\net7.0\ref\p83-segundo-parcial.dll
