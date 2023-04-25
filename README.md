@@ -90,3 +90,15 @@ Luis Manuel Reveles Dorado
 - p69-suma-rango
 - p70-tabla-multiplicar
 - p71-calificacion-letra
+## Activida 13(29-03-2023)
+- p72-mayor-tres-numeros
+- p73-suma-digitos
+- p74-suma-pares-impares
+- p75-factorial
+- p76-cuadro-caracter  
+## TAREA 5(20-04-2023)
+- p77-numero-menor
+- p78-dia-semana 
+- p79-medidas-longitud  
+- p80-suma-multiplos
+- p81–angulo 
