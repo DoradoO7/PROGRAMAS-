@@ -101,4 +101,7 @@ Luis Manuel Reveles Dorado
 - p78-dia-semana 
 - p79-medidas-longitud  
 - p80-suma-multiplos
-- p81–angulo 
+- p81–angulo
+## Examen 2(24-04-23)
+- p82-repaso-parcial-2
+- p83-segundo-parcial
