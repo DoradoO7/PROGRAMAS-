@@ -105,3 +105,16 @@ Luis Manuel Reveles Dorado
 ## Examen 2(24-04-23)
 - p82-repaso-parcial-2
 - p83-segundo-parcial
+## Actividad 14(02/5/23)
+- p84-empelado
+- p85-cuenta-bancaria-v1
+## Actividad 15(04/05/23)
+- p86-cuenta-bancaria-v2
+## Actividad 16(09/05/23)
+- p87-control-escolar
+## Activida 17(11/05/23)
+- p88-conrol-escolar-v2
+## Actividad 18(18/05/2023)
+- p89-control-escolar-v3
+## Examen 3
+- p90-tercer-parccial
