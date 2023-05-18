@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "co5tqURYtX+Ypn6enKv6bbl2rbbZr/c5dj2a9IJekJEKIDqJBTWRcORYXbpwa7R1B5orjZZmH2CH3UJjl6idUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dorad\\Desktop\\PROGRAMAS#\\p90-tercer-parcial\\p90-tercer-parcial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dorad\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\dorad\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
